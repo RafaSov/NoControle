@@ -1,7 +1,7 @@
 # 💰 NoControle - Controle Financeiro Pessoal
 
 <p align="center">
-  <img src="screenshots/app-icon.png" alt="FinanceApp Icon" width="120" height="120">
+  <img src="screenshots/app-icon.png" alt="NoControle Icon" width="120" height="120">
 </p>
 
 <p align="center">
@@ -120,8 +120,8 @@ FinanceApp/
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/FinanceApp.git
-cd FinanceApp
+git clone https://github.com/RafaSov/NoControle.git
+cd NoControle
 ```
 
 ### Abra no Xcode
@@ -297,7 +297,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ```
 MIT License
 
-Copyright (c) 2025 [Seu Nome]
+Copyright (c) 2025 Rafael Dutra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -337,5 +337,5 @@ Se este projeto te ajudou, considere dar uma ⭐ no repositório!
 ---
 
 <p align="center">
-  Feito com ❤️ e SwiftUI
+  Feito com SwiftUI
 </p>
