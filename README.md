@@ -1,7 +1,7 @@
 # 💰 NoControle - Controle Financeiro Pessoal
 
 <p align="center">
-  <img src="screenshots/app-icon.png" alt="NoControle Icon" width="120" height="120">
+  <img src="Screenshots/app-icon.png" alt="NoControle Icon" width="120" height="120">
 </p>
 
 <p align="center">
