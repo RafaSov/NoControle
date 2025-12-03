@@ -1,7 +1,7 @@
-# 💰 NoControle - Controle Financeiro Pessoal
+# 💰 FinanceApp - Controle Financeiro Pessoal
 
 <p align="center">
-  <img src="Screenshots/app-icon.png" alt="NoControle Icon" width="120" height="120">
+  <img src="Screenshots/app-icon.png" alt="FinanceApp Icon" width="120" height="120">
 </p>
 
 <p align="center">
@@ -120,8 +120,8 @@ FinanceApp/
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/RafaSov/NoControle.git
-cd NoControle
+git clone https://github.com/RafaSov/FinanceApp.git
+cd FinanceApp
 ```
 
 ### Abra no Xcode
