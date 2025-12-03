@@ -1,8 +1,8 @@
 # 🔒 Política de Privacidade
 
-**FinanceApp - Controle Financeiro Pessoal**
+**NoControle - Controle Financeiro Pessoal**
 
-Última atualização: Janeiro de 2025
+Última atualização: Dezembro de 2025
 
 ---
 
@@ -146,7 +146,7 @@ Você tem o direito de:
 
 Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato:
 
-- **Email:** seu-email@exemplo.com
+- **Email:** rafael.olivsou@gmail.com
 - **GitHub:** [github.com/seu-usuario/FinanceApp](https://github.com/seu-usuario/FinanceApp)
 
 ---
@@ -159,5 +159,5 @@ Ao usar o FinanceApp, você concorda com esta Política de Privacidade.
 
 <p align="center">
   <strong>Sua privacidade é nossa prioridade.</strong><br>
-  FinanceApp - Controle Financeiro Pessoal
+  NoControle - Controle Financeiro Pessoal
 </p>
