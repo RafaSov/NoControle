@@ -324,9 +324,9 @@ SOFTWARE.
 
 **Seu Nome**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-- Email: seu-email@exemplo.com
+- GitHub: [@srafasov](https://github.com/RafaSov)
+- LinkedIn: [Rafael Dutra](https://www.linkedin.com/in/olisouzarafael/)
+- Email: rafael.olivsou@gmail.com
 
 ---
 
