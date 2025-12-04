@@ -37,7 +37,7 @@ Clique no botão "Fork" no canto superior direito da página do GitHub.
 ### 2. Clone seu Fork
 
 ```bash
-git clone https://github.com/seu-usuario/FinanceApp.git
+git clone https://github.com/RafaSov/FinanceApp.git
 cd FinanceApp
 ```
 
